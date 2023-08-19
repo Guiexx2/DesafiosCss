@@ -1,0 +1,31 @@
+
+  div#Triangulo1 {
+    width: 200px;
+    height: 200px;
+    background: #F7EC7D;
+    transform: rotate();
+    position: relative;
+    top: 41px;
+    left: 101px;
+  }
+  div#Triangulo2 {
+    width: 135px;
+    height: 270px;
+    background: #62306D;
+    transform:rotate(33deg);
+    position: relative;
+    top: -243px;
+    left: 51px;
+  }
+   div#Triangulo3 {
+    width: 135px;
+    height: 270px;
+    background: #62306D;
+    transform:rotate(165deg);
+    position: relative;
+    top: -480px;
+    left: 256px;
+  }
+  body{
+    background: #62306D;
+  }
