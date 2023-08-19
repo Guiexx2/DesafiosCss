@@ -1,0 +1,67 @@
+<div id="Quadrado1"></div>
+<div id="Quadrado2"></div>
+<div id="Quadrado3"></div>
+<div id="Quadrado4"></div>
+<div id="Quadrado5"></div>
+<div id="Quadrado6"></div>
+<div id="Quadrado7"></div>
+<style>
+  div#Quadrado1{
+    width: 160px;
+    height: 160px;
+    position: relative;
+    top: 60px;
+    left: 110px;
+    background: #FADE8B;
+    transform: rotate(45deg);
+  }
+  div#Quadrado2{
+     width: 129px;
+    height: 130px;
+    position: relative;
+    top: -85px;
+    left: 125px;
+    background: #E3516E;
+    transform: rotate(45deg);
+  }
+  div#Quadrado4{
+     width: 115px;
+    height: 115px;
+    position: relative;
+    top: -180px;
+    left: 134px;
+    background: #FADE8B;
+    transform: rotate(45deg);
+  }
+  
+  div#Quadrado5{
+     width: 90px;
+    height: 90px;
+    position: relative;
+    top: -280px;
+    left: 147px;
+    background: #E3516E;
+    transform: rotate(45deg);
+  }
+  div#Quadrado6{
+     width: 70px;
+    height: 70px;
+    position: relative;
+    top: -340px;
+    left: 155px;
+    background: #FADE8B;
+    transform: rotate(45deg);
+  }
+  div#Quadrado7{
+     width: 50px;
+    height: 50px;
+    position: relative;
+    top: -390px;
+    left: 166px;
+    background: #E3516E;
+    transform: rotate(45deg);
+  }
+  
+  body{
+    background: #E3516E
+  }
