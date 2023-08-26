@@ -1,0 +1,46 @@
+
+<div></div>
+<div id="Circulo1"></div>
+<div id="Circulo2"></div>
+
+
+
+<style>
+  div{
+    width: 300px;
+    height: 400px;
+    background: #FADE8B;
+    position: relative;
+    border: radius;
+    border-top-left-radius: 150px 75px;
+    border-top-right-radius: 150px 75px;
+    top: 67px;
+    left: 42px;
+  }
+ 
+  div#Circulo1{
+    width: 240px;
+    height: 90px;
+    background-color: #E3516E;
+    position: relative;
+    border-radius: 50%;
+    top: -303;
+    left: 72;
+    }
+ 
+  
+ body{
+      background-color: #E3516E;
+    
+  }
+</style>
+
+
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
